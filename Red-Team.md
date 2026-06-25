@@ -56,3 +56,14 @@
 |52   |https://www.legacyy.xyz/|Red Team|
 |53   |https://kyleavery.com/|Red Team, AI|
 |54   |https://medium.com/@s12deff|Red Team|
+|55   |https://redops.at/|Red Team|
+|56 | https://zerosalarium.com/ | Red Team / Security Research |
+|57 | https://kirchware.com/ | Red Team / Security Research |
+|58 | https://darkrelay.com/ | Red Team / Offensive Security |
+|59 | https://knifecoat.com/ | Security Research |
+|60 | https://blog.axelarator.net | Red Team / Offensive Security |
+|61 | https://itm4n.github.io | Windows Security, Active Directory, Research |
+|62 | https://0xpat.github.io | Malware Development, Offensive Security |
+|63 | https://dominicbreuker.com | Password Cracking, Security Research |
+|64 | https://0xdbgman.github.io | Red Team / Offensive Security |
+
