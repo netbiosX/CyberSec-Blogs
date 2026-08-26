@@ -56,3 +56,4 @@
 |52   |https://www.legacyy.xyz/|Red Team|
 |53   |https://kyleavery.com/|Red Team, AI|
 |54   |https://medium.com/@s12deff|Red Team|
+|55   |https://jakeotte.com/|Red Team|
